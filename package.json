@@ -1,0 +1,22 @@
+{
+  "name": "webtech-profile2020",
+  "version": "1.0.0",
+  "description": "pagina de profil",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcaterinaChirica/webtech-profile2020.git"
+  },
+  "author": "ecaterinachirica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EcaterinaChirica/webtech-profile2020/issues"
+  },
+  "homepage": "https://github.com/EcaterinaChirica/webtech-profile2020#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
